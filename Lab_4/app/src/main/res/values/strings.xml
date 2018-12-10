@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="Accel">Accelerometer</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="z">Z:</string>
+    <string name="gyro">Gyroscope</string>
+    <string name="magno">Magnetic Field</string>
+    <string name="temp">Temperature</string>
+    <string name="light">Light</string>
+</resources>
